@@ -1,2 +1,2 @@
 # solutions
-my ICPC code
+my algorithm competition code
