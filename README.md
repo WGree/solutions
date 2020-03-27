@@ -1,2 +1,2 @@
 # solutions
-my ICPC codes
+my ICPC code
