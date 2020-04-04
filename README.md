@@ -1,2 +1,2 @@
 # solutions
-my programming competition code
+my competition programming codes
