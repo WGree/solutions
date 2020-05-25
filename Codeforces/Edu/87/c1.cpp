@@ -9,8 +9,9 @@ int main() {
     while (q--) {
         int n;
         cin >> n;
-        auto k = tan((n * 2 - 2) * pi / 4 / n);
-        printf("%.10lf\n", k);
+        double middle = pi / n;
+        double a = (pi - middle) / 2;
+        printf("%.10lf\n", tan(a));
     }
     return 0;
 }
